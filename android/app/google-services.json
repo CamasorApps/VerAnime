@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847570556994",
+    "project_id": "veranime-9ec01",
+    "storage_bucket": "veranime-9ec01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847570556994:android:f399c05ba48725f7c3b5db",
+        "android_client_info": {
+          "package_name": "com.veranime.veranime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847570556994-7vnu766996dk74vn40gf0ut1bdh3ie3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcF8FyFRiFIUFa1lXhZdo4GA1YXUiNfRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847570556994-7vnu766996dk74vn40gf0ut1bdh3ie3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
